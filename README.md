@@ -1,5 +1,11 @@
 # Gecco
 
+## Note
+
+⚠️⚠️ yukiasai/Gecco was transferred to [bannzai/Gecco](https://github.com/bannzai/Gecco). This repository is forked. ⚠️⚠️
+
+## Overview
+
 [![Pod Version](http://img.shields.io/cocoapods/v/Gecco.svg?style=flat)](http://cocoadocs.org/docsets/Gecco/)
 [![Pod Platform](http://img.shields.io/cocoapods/p/Gecco.svg?style=flat)](http://cocoadocs.org/docsets/Gecco/)
 [![Pod License](http://img.shields.io/cocoapods/l/Gecco.svg?style=flat)](http://opensource.org/licenses/MIT)
